@@ -1,5 +1,5 @@
 # Project web portfolio
-
+---
 ## Cara menginstall pada komputer:
 1.Pastikan node.js sudah terinstal
 
@@ -11,7 +11,7 @@
 
 
 
-
+---
 ### Ketik ini pada terminal : 
 '$cd Portfolio_Website_Tantangan'
 
@@ -20,7 +20,7 @@
 '$npm start'
 
 
-
+---
 ## TO DO(pengembangan selanjutnya):
 
 -Menyelesaikan link social media yang ada
@@ -31,7 +31,7 @@
 
 -Menambakan lagi animasi website agar tidak terkesan polos
 
-
+---
 ## Cakupan project:
 -website untuk sementara di hosting di server gratis yaitu Heroku
 
