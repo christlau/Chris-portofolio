@@ -1,21 +1,18 @@
-# Project tantangan web portfolio pribadi oleh pak Jeremy
+# Project web portfolio
 
 ## Cara menginstall pada komputer:
 1.Pastikan node.js sudah terinstal
-
 2.Download project yang telah disediakan ini dan ekstrak pada suatu folder
-
 3.Nyalakan compiler pilihan anda(saya menggunakan VS code)
-
 4.Buka terminal pada folder project yang telah di ekstrak
 
+
+
 ### Ketik ini pada terminal : 
-
 '$cd Portfolio_Website_Tantangan'
-
 '$npm install'
-
 '$npm start'
+
 
 ## TO DO(pengembangan selanjutnya):
 
